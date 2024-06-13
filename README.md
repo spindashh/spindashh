@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spindashh
 - 👀 I’m interested in videogames and art
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Pyhton
 - 💞️ I’m looking to collaborate on Indie games development
 - 📫 How to reach me: Pigeon post
 - 😄 Pronouns: He/Him
