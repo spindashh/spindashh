@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @spindashh
-- 👀 I’m interested in videogames and art
-- 🌱 I’m currently learning C++ and Pyhton
-- 💞️ I’m looking to collaborate on Indie games development
-- 📫 How to reach me: Pigeon post
+- 👀 I’m interested in videogames, art and 3D modeling
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on indie games development
+- 📫 How to reach me: juanjoplacencia129@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Sonic the Hedgehog
+- ⚡ Fun fact: I really like Sonic the Hedgehog
 
 <!---
 spindashh/spindashh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
